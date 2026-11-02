@@ -48,5 +48,16 @@ The output confirmed that the value was set to 0.
 ## Reflection
 This activity helped me become more comfortable with Kali Linux and the Linux terminal. I also learned how to verify network connectivity and apply a network configuration setting.
 
+## Screenshots
+
+### Kali Linux Desktop
+![Kali Linux Desktop](screenshots/kali-linux-desktop.png)
+
+### Network Connectivity Test
+![Network Connectivity](screenshots/network-connectivity.png)
+
+### Nmap Installation
+![Nmap Version](screenshots/nmap-version.png)
+
 ---
 Documented as part of my cybersecurity learning journey.
