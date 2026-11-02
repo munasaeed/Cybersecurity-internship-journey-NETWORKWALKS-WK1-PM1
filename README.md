@@ -13,12 +13,14 @@ This repository documents my hands-on learning, technical activities, network ex
 ## My Goal
 To build practical cybersecurity knowledge through continuous learning, hands-on exercises, and documentation.
 
-## Internship and Practical Experience
+## Internship Programme: Network Walks
 
-This repository documents my cybersecurity internship journey, including:
+This repository documents my learning journey and practical experiences as part of the Network Walks cybersecurity internship programme.
 
-- Network walks and practical network exploration.
-- Observations and lessons from internship activities.
+It includes:
+
+- Practical networking activities and exploration.
+- Technical observations and lessons from the programme.
 - Hands-on exercises using Kali Linux and cybersecurity tools.
 - Networking fundamentals and technical skills development.
 
